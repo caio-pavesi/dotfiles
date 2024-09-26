@@ -20,5 +20,6 @@
         "ms-vscode-remote.remote-ssh",
         "qwtel.sqlite-viewer",
         "shardulm94.trailing-spaces",
+        "ms-python.autopep8",
     ]
 }
